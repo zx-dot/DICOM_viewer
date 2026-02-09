@@ -1,0 +1,10 @@
+PySide6>=6.6
+SimpleITK>=2.3
+pydicom>=2.4
+numpy>=1.24
+scikit-image>=0.22
+vtk>=9.3
+pyvista>=0.43
+pyvistaqt>=0.11
+torch>=2.1
+monai>=1.3
