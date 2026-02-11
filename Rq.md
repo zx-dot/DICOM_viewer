@@ -1,5 +1,4 @@
 
-
 # CT影像气道分割与病灶标注系统 (AirwayLesion-Seg) 需求规格说明书
 
 **版本**: v2.0 (Vibe Coding Optimized)  
